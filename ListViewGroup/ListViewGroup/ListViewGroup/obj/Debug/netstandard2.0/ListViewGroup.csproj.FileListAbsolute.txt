@@ -1,0 +1,14 @@
+C:\Users\51949\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\bin\Debug\netstandard2.0\ListViewGroup.deps.json
+C:\Users\51949\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\bin\Debug\netstandard2.0\ListViewGroup.dll
+C:\Users\51949\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\bin\Debug\netstandard2.0\ref\ListViewGroup.dll
+C:\Users\51949\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\bin\Debug\netstandard2.0\ListViewGroup.pdb
+C:\Users\51949\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\ListViewGroup.csprojAssemblyReference.cache
+C:\Users\51949\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\51949\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\GroupedListXaml.xaml.g.cs
+C:\Users\51949\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\51949\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\ListViewGroup.AssemblyInfoInputs.cache
+C:\Users\51949\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\ListViewGroup.AssemblyInfo.cs
+C:\Users\51949\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\51949\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\ListViewGroup.dll
+C:\Users\51949\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\ref\ListViewGroup.dll
+C:\Users\51949\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\ListViewGroup.pdb

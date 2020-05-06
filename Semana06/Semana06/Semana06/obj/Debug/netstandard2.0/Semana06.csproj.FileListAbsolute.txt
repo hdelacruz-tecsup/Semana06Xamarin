@@ -1,0 +1,16 @@
+C:\Users\51949\source\repos\Semana06\Semana06\Semana06\bin\Debug\netstandard2.0\Semana06.deps.json
+C:\Users\51949\source\repos\Semana06\Semana06\Semana06\bin\Debug\netstandard2.0\Semana06.dll
+C:\Users\51949\source\repos\Semana06\Semana06\Semana06\bin\Debug\netstandard2.0\ref\Semana06.dll
+C:\Users\51949\source\repos\Semana06\Semana06\Semana06\bin\Debug\netstandard2.0\Semana06.pdb
+C:\Users\51949\source\repos\Semana06\Semana06\Semana06\obj\Debug\netstandard2.0\Semana06.csprojAssemblyReference.cache
+C:\Users\51949\source\repos\Semana06\Semana06\Semana06\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\51949\source\repos\Semana06\Semana06\Semana06\obj\Debug\netstandard2.0\ListView.xaml.g.cs
+C:\Users\51949\source\repos\Semana06\Semana06\Semana06\obj\Debug\netstandard2.0\ListViewCode.xaml.g.cs
+C:\Users\51949\source\repos\Semana06\Semana06\Semana06\obj\Debug\netstandard2.0\ListViewGroup.xaml.g.cs
+C:\Users\51949\source\repos\Semana06\Semana06\Semana06\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\51949\source\repos\Semana06\Semana06\Semana06\obj\Debug\netstandard2.0\Semana06.AssemblyInfoInputs.cache
+C:\Users\51949\source\repos\Semana06\Semana06\Semana06\obj\Debug\netstandard2.0\Semana06.AssemblyInfo.cs
+C:\Users\51949\source\repos\Semana06\Semana06\Semana06\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\51949\source\repos\Semana06\Semana06\Semana06\obj\Debug\netstandard2.0\Semana06.dll
+C:\Users\51949\source\repos\Semana06\Semana06\Semana06\obj\Debug\netstandard2.0\ref\Semana06.dll
+C:\Users\51949\source\repos\Semana06\Semana06\Semana06\obj\Debug\netstandard2.0\Semana06.pdb
